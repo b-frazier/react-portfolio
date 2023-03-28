@@ -48,6 +48,9 @@ function Contact() {
           rows="3"
         ></textarea>
       </div>
+      <button type="button" className="btn btn-light">
+        Submit
+      </button>
     </div>
   );
 }
