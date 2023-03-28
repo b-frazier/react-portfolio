@@ -4,8 +4,16 @@ import linkedin from '../assets/linkedin.png';
 
 function Footer() {
   return (
-    <nav className="navbar fixed-bottom bg-light">
-      <div className="container" style={{ justifyContent: 'center' }}>
+    <nav
+      className="navbar bg-light footer"
+      style={{
+        display: 'flex',
+        flexDirection: 'column',
+        justifyContent: 'center',
+        alignItems: 'center',
+      }}
+    >
+      <div style={{ display: 'flex' }}>
         <a
           className="nav-link"
           href="https://github.com/b-frazier"
@@ -14,7 +22,7 @@ function Footer() {
         >
           <img
             src={github}
-            style={{ width: 30, marginRight: 5 }}
+            style={{ width: 30, margin: 4 }}
             alt="github logo"
           ></img>
         </a>
@@ -26,15 +34,12 @@ function Footer() {
         >
           <img
             src={linkedin}
-            style={{ width: 30, marginLeft: 5 }}
+            style={{ width: 30, margin: 4 }}
             alt="github logo"
           ></img>
         </a>
       </div>
-      <div
-        className="container"
-        style={{ justifyContent: 'center', marginTop: 3 }}
-      >
+      <div>
         <p style={{ margin: 0 }}>Find me on my socials.</p>
       </div>
     </nav>
