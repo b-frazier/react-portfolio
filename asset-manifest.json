@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.756af292.css",
+    "main.js": "/react-portfolio/static/js/main.bf8e7a82.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/bianca-headshot-square-1mb.jpg": "/react-portfolio/static/media/bianca-headshot-square-1mb.bb4bf4455460e9d745b7.jpg",
+    "static/media/Frazier_Resume-23.pdf": "/react-portfolio/static/media/Frazier_Resume-23.bc270138c28deba6fb57.pdf",
+    "static/media/github.png": "/react-portfolio/static/media/github.f11021803f68852df283.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.756af292.css.map": "/react-portfolio/static/css/main.756af292.css.map",
+    "main.bf8e7a82.js.map": "/react-portfolio/static/js/main.bf8e7a82.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.bf8e7a82.js"
+  ]
+}
