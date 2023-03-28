@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.756af292.css",
-    "main.js": "/react-portfolio/static/js/main.bf8e7a82.js",
+    "main.css": "/react-portfolio/static/css/main.984d71a0.css",
+    "main.js": "/react-portfolio/static/js/main.5b6df1c5.js",
     "static/js/787.1ed0c42c.chunk.js": "/react-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/generator.jpg": "/react-portfolio/static/media/generator.c1a974b2461074ef6d50.jpg",
+    "static/media/blog.jpg": "/react-portfolio/static/media/blog.c9a533bc661f79b22f7e.jpg",
+    "static/media/employee.jpg": "/react-portfolio/static/media/employee.2b0925895a1ddc321c49.jpg",
+    "static/media/team.jpg": "/react-portfolio/static/media/team.e147f385b3cb5d7af00b.jpg",
+    "static/media/api.jpg": "/react-portfolio/static/media/api.002c77bba64a4fbe25a4.jpg",
+    "static/media/weather.jpg": "/react-portfolio/static/media/weather.522c2b667607a3c5c3a6.jpg",
     "static/media/bianca-headshot-square-1mb.jpg": "/react-portfolio/static/media/bianca-headshot-square-1mb.bb4bf4455460e9d745b7.jpg",
     "static/media/Frazier_Resume-23.pdf": "/react-portfolio/static/media/Frazier_Resume-23.bc270138c28deba6fb57.pdf",
     "static/media/github.png": "/react-portfolio/static/media/github.f11021803f68852df283.png",
     "index.html": "/react-portfolio/index.html",
-    "main.756af292.css.map": "/react-portfolio/static/css/main.756af292.css.map",
-    "main.bf8e7a82.js.map": "/react-portfolio/static/js/main.bf8e7a82.js.map",
+    "main.984d71a0.css.map": "/react-portfolio/static/css/main.984d71a0.css.map",
+    "main.5b6df1c5.js.map": "/react-portfolio/static/js/main.5b6df1c5.js.map",
     "787.1ed0c42c.chunk.js.map": "/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.756af292.css",
-    "static/js/main.bf8e7a82.js"
+    "static/css/main.984d71a0.css",
+    "static/js/main.5b6df1c5.js"
   ]
 }
