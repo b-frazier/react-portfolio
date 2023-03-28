@@ -4,6 +4,7 @@ import doc from '../assets/Frazier_Resume-23.pdf';
 function Resume() {
   return (
     <div className="container my-5">
+      <h1 className="display-5 my-3">Resume</h1>
       <div style={{ width: 500 }}>
         <h1 class="display-6">Skills & Technologies:</h1>
         <ul class="list-group list-group-flush">
