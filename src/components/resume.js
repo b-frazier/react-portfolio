@@ -2,7 +2,7 @@ import React from 'react';
 
 function Resume() {
   return (
-    <div className="container">
+    <div className="container my-5">
       <div>
         <h3>Education</h3>
         <h4>The Ohio State University | Columbus, Ohio</h4>
