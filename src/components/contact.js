@@ -3,6 +3,7 @@ import React from 'react';
 function Contact() {
   return (
     <div className="container my-5">
+      <h1 className="display-5 my-3">Contact Me</h1>
       <div className="row">
         <div className="col">
           <label for="firstName" className="form-label">
